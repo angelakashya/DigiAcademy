@@ -1,4 +1,4 @@
-/*package main
+package main
 
 import "fmt"
 
@@ -18,5 +18,3 @@ func main() {
 	fmt.Println(funcionario2)
 	fmt.Println(funcionario3)
 }
-*/
-
